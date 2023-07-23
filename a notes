@@ -1,0 +1,25 @@
+
+Pogi ni Melvs
+
+    remake 
+        login 
+        register
+
+    Need to Finish
+        m_order_list
+        a_about
+        s_service
+        r_terms
+
+    ADD
+        category on the add product on the admin side 
+            z_item_add
+            z_item_update
+        also add image 
+
+    localhost/cocoskitchenGIF/z_admin.php           <-- ADMIN DASHBOARD
+    localhost/cocoskitchenGIF/l_loginPage.php       <-- Users Login
+
+
+    issue
+        z_product_upsubmit.php
